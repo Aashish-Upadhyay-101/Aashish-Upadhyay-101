@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer with a passion for problem-solving and delivering high-quality solutions. Skilled in multiple programming languages including Typescript, Python, and Go, with a strong understanding of design patterns, data structures, and algorithms. Seeking opportunities to continue learning and contributing to the growth of innovative technology companies.<br><br><br><br>
+Software developer with a passion for problem-solving and delivering high-quality solutions. Skilled in multiple programming languages including Typescript, Python, and Go, with a strong understanding of design patterns, data structures, and algorithms.<br><br><br><br>
 
 
 ## 🌐 Socials:
